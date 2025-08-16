@@ -31,7 +31,8 @@ To run the project:
 ## Visual
 After running the command in #7, you should see this interface:
 
-![ATM interface](https://user-images.githubusercontent.com/77065772/218245894-caabfd9b-3fa4-4833-81ba-07a2eadaf648.PNG)
+<img width="656" height="343" alt="image" src="https://github.com/user-attachments/assets/d4515e71-6edc-4475-9b82-e553fcbdcbb1" />
+
 
 ---
 # For Developers
